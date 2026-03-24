@@ -5,19 +5,6 @@ Generate strong passwords, store them securely in an encrypted vault, and manage
 
 ---
 
-## 🌐 Live Demo  
-👉 [Live Application](https://password-vault-git-main-hemant-singh-rawats-projects.vercel.app)
-
----
-
-## 🧑‍💻 Project Overview
-
-This project was developed as part of an internship assignment for  
-**[Web Development Company - Top](https://in.linkedin.com/company/web-development-company-top)**  
-**Founder:** [Setu Agrawal](https://in.linkedin.com/in/setu-agrawal-1032681aa)
-
----
-
 ## 🎯 Goal
 
 Build a simple, secure web application where users can:
